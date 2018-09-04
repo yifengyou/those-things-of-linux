@@ -11,6 +11,18 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 目录
 
+
+Linux那些事儿之我是Block层.pdf
+Linux那些事儿之我是EHCI主机控制器.pdf
+Linux那些事儿之我是HUB.pdf
+Linux那些事儿之我是PCI.pdf
+Linux那些事儿之我是SCSI硬盘.pdf
+Linux那些事儿之我是Sysfs.pdf
+Linux那些事儿之我是UHCI.pdf
+Linux那些事儿之我是USB Core.pdf
+Linux那些事儿之我是U盘.pdf
+
+
 ## 参考博客
 
 
