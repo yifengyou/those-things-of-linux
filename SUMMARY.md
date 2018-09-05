@@ -1,6 +1,7 @@
 # Summary
 
 * [Linux那些事儿](README.md)
+* [导读](docs/导读.md)
 * [Linux那些事儿之我是Block层](docs/Linux那些事儿之我是Block层.md)
 * [Linux那些事儿之我是EHCI主机控制器](docs/Linux那些事儿之我是EHCI主机控制器.md)
 * [Linux那些事儿之我是HUB](docs/Linux那些事儿之我是HUB.md)
