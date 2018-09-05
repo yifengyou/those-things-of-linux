@@ -1,7 +1,3 @@
----
-typora-copy-images-to: image
----
-
 # Linux那些事儿
 
 ## 本仓库内容
@@ -63,11 +59,3 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
   1.基础永远值得花费90%的精力去学习加强。厚积而薄发~
   2.要理解一个软件系统的真正运行机制，一定要阅读其源代码~
 ```
-
-
-
-
-
-
-
-![1536114528554](image/1536114528554.png)
